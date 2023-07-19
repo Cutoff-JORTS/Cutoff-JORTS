@@ -1,4 +1,4 @@
- alias @Cutoff-JORTS='bilbo'
+ alias @Cutoff-JORTS='jort'
 - Left finance after a decade of soul selling
 - I’m currently learning Linux/Server Hardware wizardry
 - 💞️ I’m looking to collaborate on anything I can get my hands dirty with
