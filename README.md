@@ -1,13 +1,8 @@
  alias @Cutoff-JORTS='jort'
-- Left finance after a decade of soul selling
-- I’m currently learning Linux/Server Hardware wizardry
-- I’m looking to collaborate on anything I can get my hands dirty with
-- How to reach me: https://jorts.tech/contact
+Self-taught Linux admin. I pivoted from a 10-year career in banking to pursue work that more deeply excites me. Administrator of my home-lab, which includes local SMB fileshare, automated backup storage for 4x local machines, personal cloud storage, private media server, and VM host (for a Folding @ Home machine, working specifically on organizing Alzheimer's-related datasets for ongoing medical research).
 
- Not much going on here, I expect at first it will be a couple of personal learning projects amounting to a child's homework. That being said, I'm 100% self-taught to date.
- Spent 9years working in retail & private banking, just working for a check and spending half of my time in the office resolving local "tech" issues anyway.
- As of June 5 2023, began self-instruction on Linux server-oriented distros
- As of June 12, home lab assembled & start of uptime tracking
+Keep up with me here: https://jorts.tech where I post project updates, scripts for Bash & Powershell (with links to available public GitHub repos), and a weekly news-bite piece called "Buzzwords of the Day"
+- How to reach me: https://jorts.tech/contact
 
       hardware: Ryzen 3700x (8c/16t) || 64GB RAM || Radeon R9 270 || headless || maximum power draw=275W
        > Contained VM - runs Fold @ Home full-time inside Win10 environment {
