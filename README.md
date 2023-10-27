@@ -20,3 +20,9 @@
              Includes networked storage of all notes for several Dungeons & Dragons campaigns
            #Most of my learning scripts are oriented around manipulating this dataset
          }
+        > Jellyfin - hosted media server avialable over https via self-signed SSL cert 
+        > Docker Containers {
+         nginx - SSL protected reverse proxy
+         Nextcloud - Private cloud storage
+         }
+        > Jellyfin - hosted media server avialable over https via self-signed SSL cert 
