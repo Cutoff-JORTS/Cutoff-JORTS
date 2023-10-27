@@ -10,19 +10,18 @@
  As of June 12, home lab assembled & start of uptime tracking
 
       hardware: Ryzen 3700x (8c/16t) || 64GB RAM || Radeon R9 270 || headless || maximum power draw=275W
-        > Contained VM - runs Fold @ Home full-time inside Win10 environment {
+       > Contained VM - runs Fold @ Home full-time inside Win10 environment {
             dedicated_cores=6
               utilization_limit=80%
             dedicated_ram=8GB
-           }
-        > 8TB ZFS Pool (mirror) - acts as local file server for clients on home network {
+         }
+       > 8TB ZFS Pool (mirror) - acts as local file server for clients on home network {
             Secure & redundant storage for my personal hobby photography projects, film & TV collection, and any crucial files
              Includes networked storage of all notes for several Dungeons & Dragons campaigns
            #Most of my learning scripts are oriented around manipulating this dataset
          }
-        > Jellyfin - hosted media server avialable over https via self-signed SSL cert 
-        > Docker Containers {
+       > Docker Containers {
          nginx - SSL protected reverse proxy
          Nextcloud - Private cloud storage
          }
-        > Jellyfin - hosted media server avialable over https via self-signed SSL cert 
+       > Jellyfin - hosted media server avialable over https via self-signed SSL cert 
