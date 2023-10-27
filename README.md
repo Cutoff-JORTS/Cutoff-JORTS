@@ -1,8 +1,8 @@
  alias @Cutoff-JORTS='jort'
 - Left finance after a decade of soul selling
 - I’m currently learning Linux/Server Hardware wizardry
-- 💞️ I’m looking to collaborate on anything I can get my hands dirty with
-- 📫 How to reach me ...
+- I’m looking to collaborate on anything I can get my hands dirty with
+- How to reach me: https://jorts.tech/contact
 
  Not much going on here, I expect at first it will be a couple of personal learning projects amounting to a child's homework. That being said, I'm 100% self-taught to date.
  Spent 9years working in retail & private banking, just working for a check and spending half of my time in the office resolving local "tech" issues anyway.
