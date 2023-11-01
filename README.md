@@ -1,5 +1,5 @@
  alias @Cutoff-JORTS='jort'
-Self-taught Linux admin. I pivoted from a 10-year career in banking to pursue work that more deeply excites me. Administrator of my home-lab, which includes local SMB fileshare, automated backup storage for 4x local machines, personal cloud storage, private media server, and VM host (for a Folding @ Home machine, working specifically on organizing Alzheimer's-related datasets for ongoing medical research).
+Self-taught Linux admin. I pivoted from a 10-year career in banking to pursue work that more deeply excites me. Administrator of my home-lab, which includes local SMB fileshare, automated backup storage for 4x local machines, personal cloud storage, private media server, self-signed SSL-secured reverse proxy, and VM host (for a Folding @ Home machine, working specifically on organizing Alzheimer's-related datasets for ongoing medical research).
 
 Keep up with me here: https://jorts.tech where I post project updates, scripts for Bash & Powershell (with links to available public GitHub repos), and a weekly news-bite piece called "Buzzwords of the Day"
 - How to reach me: https://jorts.tech/contact
